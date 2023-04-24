@@ -35,7 +35,6 @@ function App() {
                 <div className="w-11/12 max-w-5xl mx-auto">
                         <HeroSection />
                 <Services />
-                <Works></Works>
             </div>
         </div>
        </>
